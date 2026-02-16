@@ -1,3 +1,0 @@
-# TPV Ahimsa
-
-A keyboard-driven, contemplative digital sanctuary that uses deliberate A/S/D navigation to explore a curated moral map with the aim of restoring human agency and inner authority by building resilience against the coercive attention-manipulation systems of [The Machine](https://ojas.net/cache/2b/STACKS/SYSTEMS/the-machine).
